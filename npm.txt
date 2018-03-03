@@ -1,0 +1,14 @@
+npm  - node package manager
+
+
+https://docs.npmjs.com/
+
+
+npm init
+
+npm install bootstrap@3 --save
+
+If we don't use --save flag, dependency will download but won't be added into package.json as a dependency
+
+
+npm install - to install all the dependencies from package.json
